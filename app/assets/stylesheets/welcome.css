@@ -1,0 +1,43 @@
+body {
+    background-color: #FFF;
+    color: #BEBFBB;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 0 auto;
+    max-width: 28em;
+    padding: 0.5em 0.5em 3em;
+}
+
+
+ p.photo {
+    padding: 0 0 1em;
+    text-align: center;
+  }
+  p.photo img {
+    border-radius: 77.5px;
+    height: 135px;
+    width: 135px;
+  }
+
+
+h1 {
+	color:#26221E;
+}
+
+
+a {
+	color:#26221E;
+
+}
+
+a:hover {
+	color:#F07102;
+
+}
+
+a:visited {
+
+}
+
+
