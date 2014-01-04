@@ -10,15 +10,16 @@ body {
 }
 
 
- p.photo {
+p.photo {
     padding: 0 0 1em;
     text-align: center;
-  }
-  p.photo img {
+}
+
+p.photo img {
     border-radius: 77.5px;
-    height: 135px;
-    width: 135px;
-  }
+    height: 140px;
+    width: 140px;
+}
 
 
 h1 {
@@ -28,16 +29,9 @@ h1 {
 
 a {
 	color:#26221E;
-
 }
 
 a:hover {
 	color:#F07102;
-
 }
-
-a:visited {
-
-}
-
 
